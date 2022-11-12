@@ -14,7 +14,3 @@ You need google chrome installed locally
 5. Execute the tests
 
             pipenv run behave -f html -o report/
-
-6. generate HTML report with allure
-
-            sudo allure serve -p 38923 report/
